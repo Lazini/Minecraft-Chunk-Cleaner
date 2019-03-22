@@ -1,0 +1,18 @@
+# This is a comment. To add a comment, make sure the line starts with a '#'
+# This is the general format of the program.
+# If you want to add further Settings, simply start another Settings section and add your .. well, settings. :P
+# Since the block IDs (as numbers, e.g the sand's block ID is 12) have been copmletely removed from the game, you must use their corresponding 
+# block name ID, e.g. 'minecraft:oak_planks'
+# 
+#
+#
+# Have fun!
+
+saveFolderLoc: C:\Users\Lazaros\AppData\Roaming\.minecraft\saves\ImperialCity
+
+
+Settings
+    whitelistedBlockIDs: minecraft:sand, minecraft:nether_bricks, minecraft:stone_slab, minecraft:spruce_leaves, minecraft:spruce_log, minecraft:nether_brick_fence, minecraft:stone_bricks, minecraft:white_wool, minecraft:oak_leaves, minecraft:oak_log, minecraft:oak_stairs, minecraft:black_wool, minecraft:gray_wool, minecraft:oak_planks, minecraft:glass_pane, minecraft:restone_lamp, minecraft:wall_torch, minecraft:iron_bars,minecraft:netherrack, minecraft:obsidian, minecraft:iron_block, minecraft:glowstone
+    minY: 0
+    maxY: 256
+    radius: 5
