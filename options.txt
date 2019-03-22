@@ -8,7 +8,7 @@
 #
 # Have fun!
 
-saveFolderLoc: C:\Users\Lazaros\AppData\Roaming\.minecraft\saves\ImperialCity
+saveFolderLoc: C:\Users\USER_NAME\AppData\Roaming\.minecraft\saves\ImperialCity
 
 
 Settings
